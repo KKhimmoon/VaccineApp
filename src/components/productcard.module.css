@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Odia:wght@400;500;600&display=swap');
+div.card{
+    width: 250px;
+    height: 300px;
+    background: white;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.2);
+    border-radius: 10px;
+    padding-top: 10px;
+}
+div.cardimg{
+    width:100%;
+    height: 60%;
+    position:relative;
+}
+div.cardtext{
+    padding: 7px 25px;
+    height: 40%;
+    font-size: 12px;
+    font-family: 'Anek Odia', sans-serif;
+    overflow: auto;
+}

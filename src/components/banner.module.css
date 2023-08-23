@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Odia:wght@400;500;600&display=swap');
+.banner{
+    display: block;
+    padding: 5px;
+    margin:0;
+    top:0;
+    width: 100vw;
+    height:80vh;
+    position: relative;
+}
+.bannerText{
+    position:relative;
+    top:20px;
+    z-index:20;
+    text-align: center;
+    color: rgb(246, 246, 249);
+    font-family: 'Anek Odia', sans-serif;
+}
+.bannerText span {
+    color: rgb(177, 18, 26);
+}
+.bannerText h3{
+    color:rgb(6, 6, 21);
+}
