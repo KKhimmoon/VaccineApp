@@ -9,8 +9,8 @@ export default function Banner () {
              objectFit = 'cover'
             />
             <div className = {styles.bannerText}>
-                <h1>Get yourself <span>vaccinated</span> today</h1>
-                <h3>find hospital to book your vaccine</h3>
+                <h1 className = 'text-4xl font-semibold '>Get yourself <span>vaccinated</span> today</h1>
+                <h3 className = 'text-2xl font-medium'>find hospital to book your vaccine</h3>
            </div>    
         </div>
     );

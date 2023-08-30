@@ -6,8 +6,10 @@ export default function Home() {
   return (
     <main>
         <Banner></Banner>
-        <div style = {{margin : "20px"}}>
-          <ProductCard/>
+        <div className = 'm-5 flex flex-row flex-row flex-wrap justify-around content-around'>
+          <ProductCard hospitalName='Chulalongkorn Hospital' imgSrc = '/img/chula.jpg'/>
+          <ProductCard hospitalName='Rajavithi Hospital' imgSrc = '/img/rajavithi.jpg'/>
+          <ProductCard hospitalName='Thammasat University Hospital' imgSrc = '/img/thammasat.jpg'/>
         </div>
     </main>
   )

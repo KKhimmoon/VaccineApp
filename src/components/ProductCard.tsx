@@ -1,24 +1,15 @@
 import styles from './productcard.module.css';
 import Image from 'next/image';
-export default function ProductCard() {
+export default function ProductCard({ hospitalName, imgSrc}:{hospitalName:string, imgSrc:string}) {
     return(
-        <div className= {styles.card}>
-            <div className={styles.cardimg}>
-                <Image src = {'/img/vaccine1.jpg'}
-                    alt = "Vaccine Picture"
+        <div className= "w-1/5 h-[300px] rounded-lg shodow-lg">
+            <div className="w-full h-[70%] relative rounded-t-lg">
+                <Image src = {imgSrc}
+                    alt = "Product Picture"
                     fill = {true}
-                    objectFit = "cover"/>
+                    className = "object-cover rounded-t-lg"/>
             </div>
-            <div className= {styles.cardtext}>
-                <h4 style={{textAlign: 'center' }}>COVID-19 vaccines</h4>
-                <ul>
-                    <li>mRNA COVID-19 vaccines are highly effective in preventing the most severe outcomes from a COVID-19 infection.</li>
-                    <li>COVID-19 vaccines can help prevent you from becoming hospitalized if you do get infected with COVID-19.</li>
-                    <li>COVID-19 vaccines can help prevent you from dying if you do get infected with COVID-19.</li>
-                </ul>
-
-
-            </div>
+            <div className= "w-full h-[30%] p-[10px]">{hospitalName}</div>
         </div>
     )
-}3
+}
