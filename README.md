@@ -4,6 +4,8 @@ Google Doc3 : https://docs.google.com/document/d/1y_VAVIQcnPIiHTUhSou2Cetg4KDzcN
 
 Google Doc4 : https://docs.google.com/document/d/1zuwazE2AehXMOWZqOjYOAgsYtDQT2WtRcz5u5tSA0pI/edit?usp=sharing
 
+Google Doc5 : https://docs.google.com/document/d/19zituujFNdE4pNSdEusqvRmQjAMR7tBkHuAx1GIhCTo/edit?usp=sharing
+
 ## Getting Started
 
 First, run the development server:
