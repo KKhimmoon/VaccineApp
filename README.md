@@ -6,6 +6,8 @@ Google Doc4 : https://docs.google.com/document/d/1zuwazE2AehXMOWZqOjYOAgsYtDQT2W
 
 Google Doc5 : https://docs.google.com/document/d/19zituujFNdE4pNSdEusqvRmQjAMR7tBkHuAx1GIhCTo/edit?usp=sharing
 
+Google Doc6 : https://docs.google.com/document/d/1OnJv-g8bnsMiVUrVCCdxVgslGWFfMOzPAdLtSSg0xTM/edit?usp=sharing
+
 ## Getting Started
 
 First, run the development server:
