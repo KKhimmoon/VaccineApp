@@ -19,6 +19,9 @@ export default function ProductCard({ hospitalName, imgSrc, rate, onCompare}:{ho
                     name="simple-controlled"
                     value={rate}
                     onChange={(event, newValue) => {setValue(newValue || 0);event.stopPropagation(); onCompare(hospitalName,newValue)}}
+                    onClick={(e) => {
+                        e.stopPropagation();
+                      }}
                 />
         </InteractiveCard>
     )
