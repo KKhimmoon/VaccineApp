@@ -10,6 +10,8 @@ Google Doc6 : https://docs.google.com/document/d/1OnJv-g8bnsMiVUrVCCdxVgslGWFfMO
 
 Google Doc7 : https://docs.google.com/document/d/1Di83Z8gnwRIJzOBCmPvYfqTbra0CJkHh6ZhY0mWuhig/edit?usp=sharing
 
+Google Doc8 : https://docs.google.com/document/d/1n9XP-IwKjF8_E9bj-lxoGRRaKoQSkEAghB_opBxRqp4/edit?usp=sharing
+
 ## Getting Started
 
 First, run the development server:
