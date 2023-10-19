@@ -14,6 +14,8 @@ Google Doc8 : https://docs.google.com/document/d/1n9XP-IwKjF8_E9bj-lxoGRRaKoQSkE
 
 Google Doc9 : https://docs.google.com/document/d/1wqjzuHycPtbilk3i0UtQ9mWLtZKQpWrDKP06YRUd3cQ/edit?usp=sharing
 
+Google Doc10 : https://docs.google.com/document/d/1jFmrmG7MDRzwKFlYmX1lI_uZX7HIGc_Efgm-3E-7KNg/edit?usp=sharing
+
 ## Getting Started
 
 First, run the development server:
