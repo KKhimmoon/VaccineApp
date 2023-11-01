@@ -18,6 +18,8 @@ Google Doc10 : https://docs.google.com/document/d/1jFmrmG7MDRzwKFlYmX1lI_uZX7HIG
 
 Google Doc11 : https://docs.google.com/document/d/1saNnSk3y4mjHX-SQkaP7JF5i-NwuQHuVzYTz2SBk0Z4/edit?usp=sharing
 
+Google Doc12 : https://docs.google.com/document/d/19vize-KSpFDXieuKD9OMLTIfSutKFj1r-o9kvU0AyZQ/edit?usp=sharing
+
 
 ## Getting Started
 
