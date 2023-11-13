@@ -22,6 +22,8 @@ Google Doc12 : https://docs.google.com/document/d/19vize-KSpFDXieuKD9OMLTIfSutKF
 
 Google Doc13 : https://docs.google.com/document/d/1GKmwIfGslFpg08cIRuwdMPLcQqypSxGBRWICxtLcxlw/edit?usp=sharing
 
+Google Doc14 : https://docs.google.com/document/d/1g7bclc47ubs64rvzvuqAerKRAiJv2MeDYVSpNSCfwPA/edit?usp=sharing
+
 
 ## Getting Started
 
